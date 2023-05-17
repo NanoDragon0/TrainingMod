@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/eclipse/crash-reports/crash-2023-05-17_12.30.16-server.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/NanoDragon/TrainingMod/Enchant/Upgradable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/NanoDragon/TrainingMod/EventHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/NanoDragon/TrainingMod/Items/UpgradablePickaxe.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/mcmod.info" charset="US-ASCII" />
+  </component>
+</project>
